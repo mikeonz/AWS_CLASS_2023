@@ -1,1 +1,3 @@
 Hello this is our first practice.. more to come. Very excited!!
+
+Hello again, this is another go at this git thing , its super exciting and insightful. 
